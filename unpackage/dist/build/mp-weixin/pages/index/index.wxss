@@ -1,0 +1,1 @@
+.content{display:flex;flex-direction:column;justify-content:center;padding:20rpx 70rpx}.uni-padding-wrap{padding:10px 30px}.content-button{width:50%;background-color:#007aff;color:#fff}.content-text{height:70vh;font-size:38rpx;overflow:auto}.content-text-item{margin:50rpx 0}.uni-icons{font-size:35rpx!important;padding-right:20rpx}

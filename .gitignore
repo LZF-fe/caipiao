@@ -1,0 +1,8 @@
+node_modules
+.idea/
+test/
+release/
+npm-debug.log
+.vscode
+.history
+manifest.json
